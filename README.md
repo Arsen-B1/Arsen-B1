@@ -59,6 +59,15 @@ I am an independent NLP researcher and developer seeking to align Large Language
 
 ---
 
+## 🛠️ Industry Experience
+
+### 🌊 IT Developer & Support (Team Member) | Zerbulak (Largest Waterpark in KZ)
+* **IoT & Infrastructure:** Collaborated on integrating smart locker systems and scaling the mobile ticketing ecosystem.
+* **System Ops:** Contributed to optimizing backend logic to ensure 24/7 high-traffic stability for 1000s of daily visitors.
+* **Technical Support:** Assisted in maintaining infrastructure reliability and bridging the gap between physical IoT hardware and digital user experience.
+
+---
+
 ## 🛠️ Leadership & Applied Problem Solving
 
 * 📱 **EdTech Startup Founder:** Re-engineering language acquisition by replacing static modules with a TikTok-style, ML-curated video platform.
