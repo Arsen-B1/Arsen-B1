@@ -18,6 +18,23 @@ I am an independent NLP researcher and developer seeking to align Large Language
 
 ---
 
+## 🗣️ Global Linguistics
+
+<table align="center">
+  <tr>
+    <td align="center">🇰🇿<br><b>Kazakh</b><br>(Native)</td>
+    <td align="center">🇷🇺<br><b>Russian</b><br>(Fluent)</td>
+    <td align="center">🇬🇧<br><b>English</b><br>(Fluent)</td>
+    <td align="center">🇨🇳<br><b>Chinese</b><br>(HSK 4)</td>
+    <td align="center">🇦🇪<br><b>Arabic</b><br>(A1 - Learning)</td>
+    <td align="center">🇰🇷<br><b>Korean</b><br>(A1 - Learning)</td>
+  </tr>
+</table>
+
+> *"My active pursuit of Arabic is directly tied to my goal of engaging with the Middle Eastern AI development ecosystem and unlocking localized NLP research."*
+
+---
+
 ## 🚀 Selected Research & Technical Portfolios
 *(Click the repository links to view abstracts, architecture diagrams, and full project metadata)*
 
@@ -47,23 +64,6 @@ I am an independent NLP researcher and developer seeking to align Large Language
 * 📱 **EdTech Startup Founder:** Re-engineering language acquisition by replacing static modules with a TikTok-style, ML-curated video platform.
 * 🧩 **Lead Instructor, Cube Club:** Founded a school-wide initiative (grades 8-9) teaching mechanical puzzle solving (25+ variants) to develop raw algorithmic and spatial intelligence.
 * 🎵 **Traditional Arts (Dombra) Mentor:** Two-year mentorship program demonstrating a commitment to preserving indigenous cultural heritage alongside modern technological advancement.
-
----
-
-## 🗣️ Global Linguistics
-
-<table align="center">
-  <tr>
-    <td align="center">🇰🇿<br><b>Kazakh</b><br>(Native)</td>
-    <td align="center">🇷🇺<br><b>Russian</b><br>(Fluent)</td>
-    <td align="center">🇬🇧<br><b>English</b><br>(Fluent)</td>
-    <td align="center">🇨🇳<br><b>Chinese</b><br>(HSK 4)</td>
-    <td align="center">🇦🇪<br><b>Arabic</b><br>(A1 - Learning)</td>
-    <td align="center">🇰🇷<br><b>Korean</b><br>(A1 - Learning)</td>
-  </tr>
-</table>
-
-> *"My active pursuit of Arabic is directly tied to my goal of engaging with the Middle Eastern AI development ecosystem and unlocking localized NLP research."*
 
 ---
 
