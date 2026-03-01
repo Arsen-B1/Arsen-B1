@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🌟 Arsen Bakhitbekov
 **High School Researcher | AI & NLP Engineer | Tech Founder**
 📍 NIS PhM Almaty | ✉️ [bakhitbekovv@gmail.com](mailto:bakhitbekovv@gmail.com) | 🐙 [GitHub Profile](https://github.com/AlexHirsch-eng)
