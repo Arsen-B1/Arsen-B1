@@ -1,4 +1,3 @@
-# Bakhibekov-Arsen
 <div align="center">
   
 # 🌟 Arsen Bakhitbekov
